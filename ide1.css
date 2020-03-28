@@ -1,0 +1,158 @@
+body{
+
+margin: 0;
+padding: 0;
+background-color: rgba(0, 0, 0, 0.781);
+
+
+}
+
+
+nav{
+
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0 10px;
+height: 10vh;
+background-color: rgb(110, 110, 110);
+    
+    
+}
+    
+nav ul{
+display: flex;
+flex-direction: row;
+justify-content: center;
+list-style: none;
+    
+    
+}
+    
+nav li{
+    
+padding: 15px;
+font-style: bold;
+font-family: 'Noto Sans', sans-serif;
+    
+    
+    
+}
+    
+nav li a{
+    
+font-size: 20px;
+font-weight: bold;
+color: cornsilk;
+text-decoration: none;
+    
+    
+}
+    
+nav li a:hover {
+color: palevioletred;
+    
+    
+}
+    
+.baniere{
+
+    width: 100%;
+    height: 30%;
+
+
+}
+
+
+hr {
+    border: none;
+    border-top: 5px solid palevioletred;
+    overflow: visible;
+    margin-top: -2px;
+
+
+}
+
+
+h1{
+display: flex;
+justify-content: center;
+font-family: 'Noto Sans', sans-serif;
+background-color: lightseagreen;
+border-radius: 10px;
+color: black;
+width: 10%;
+margin: auto;
+margin-top: 3%;
+
+
+}
+
+h2{
+
+display: flex;
+justify-content: center;
+font-family: 'Noto Sans', sans-serif;
+margin-left: 5%;
+margin-top: 3%;
+background-color: palevioletred;
+border-radius: 10px;
+color: black;
+width: 15%;
+height: 15%;
+
+
+}
+
+
+p{
+
+display: flex;
+flex-direction: column;
+justify-content: center;
+text-align: left;
+font-family: 'Noto Sans', sans-serif;
+color: white;
+width: 20%;
+margin-left: 4%;
+
+
+}
+
+.capture{
+
+width: 40%;
+height: 40%;
+margin-left: 30%;
+margin-top: -17%;
+
+}
+
+
+
+.modif{
+
+display: flex;
+justify-content: center;
+font-family: 'Noto Sans', sans-serif;
+text-align: left;
+text-align: justify;
+margin-left: 77%;
+margin-top: -25%;
+
+}
+
+
+p1{
+
+display: flex;
+flex-direction: column;
+justify-content: center;
+text-align: left;
+font-family: 'Noto Sans', sans-serif;
+color: white;
+width: 20%;
+margin-left: 75%;
+
+}
